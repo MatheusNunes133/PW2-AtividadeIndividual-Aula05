@@ -137,5 +137,8 @@ if (tesouro) {
 
 ## Como executar
 
-1. Comando com Yarn: ```yarn start```
-2. Comando com Npm: ```npm start```
+1. Faça um clone do repositório: ```git clone https://github.com/MatheusNunes133/PW2-AtividadeIndividual-Aula05```;</br>
+2. Baixe as dependências do projeto: ```yarn``` ou ```npm i```;</br>
+3. Execute o projeto:</br>
+	3.1. Comando com Yarn: ```yarn start```</br>
+	3.2. Comando com Npm: ```npm start```
