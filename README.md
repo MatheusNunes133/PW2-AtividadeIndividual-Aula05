@@ -133,3 +133,9 @@ if (tesouro) {
 } else {
 	console.log("Nada a ver.");
 }
+```
+
+## Como executar
+
+1. Comando com Yarn: ```yarn start```
+2. Comando com Npm: ```npm start```
